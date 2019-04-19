@@ -7,7 +7,7 @@ with open(path.join(this_directory, 'README.md')) as f:
 
 setup(
     name="openidcpy",
-    version='0.7',
+    version='0.8',
     description='A package that implements the Relying Party Authorization Code Flow for OpenId Connect',
     long_description=long_description,
     long_description_content_type='text/markdown',
